@@ -43,7 +43,7 @@ $distance = getDistance($addressFrom, $addressTo, "");
         <h2>Calculate Mileage</h2>
         <p class="lead">
             Please Enter Locations Traveled Below<br />
-       <small class="text-muted">Check Out the source code at my Github page <a href="https://github.com/lancehietpas" target="blank">https://github.com/lancehietpas</a></small>
+       <small class="text-muted">Check out the source code at my Github page <a href="https://github.com/lancehietpas" target="blank">https://github.com/lancehietpas</a></small>
         </p>
 
         <div class="alert alert-warning">
