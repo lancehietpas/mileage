@@ -47,8 +47,8 @@ $distance = getDistance($addressFrom, $addressTo, "");
         </p>
 
         <div class="alert alert-warning">
-            <h4>Project Underconstruction</h4>
-            This project is constantly under construction with new features being added, check back soon for more updates.
+            <h4>Mileage Calculator using Google Maps API</h4>
+            This project uses Google Maps API to calculate miles traveled from point to point or round trip.
         </div>
 
         <hr />
